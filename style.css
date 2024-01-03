@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+    background-color: #F8C8DC;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+
+
+.box{
+    text-align: center;
+    
+}
+
+h1{
+    size: 25px;
+    margin-bottom: 10px;
+
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.btn-yes {
+    margin-top: 10px; 
+    padding: 10px 20px; 
+    font-size: 8px; 
+   border-radius: 50px;
+    background-color: #FFB6C1; 
+    color: #fff; 
+    border: none; 
+    cursor: pointer;
+  }
+
+
+
+/*#F8C8DC*/
